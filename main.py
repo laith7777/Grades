@@ -1,9 +1,5 @@
-'''
-Author: Yanling Wang yuw17@psu.edu
-Collaborator: Laith Hayajneh
-Section: 1
-Breakout: 12
-'''
+
+# Author: Laith Hayajneh lbh5303@psu.edu
 
 n = float(input("Enter your CMPSC 131 grade:"))
 
