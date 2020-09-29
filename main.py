@@ -1,7 +1,7 @@
 
 # Author: Laith Hayajneh lbh5303@psu.edu
 
-n = float(input("Enter your course 1 grade:"))
+n = float(input("Enter your course 1 letter grade: Enter your cours 1 credit: Grade point for course 1 is: "))
 
 if n >= 93.0:
   print ("Your letter grade for course 1 is A.")
